@@ -20,7 +20,7 @@ v8.16.0
 
 ## Table of contents
 
-- [template-react-component-library](#project-name)
+- [template-react-component-library](#template-react-component-library)
   - [Prerequisites](#prerequisites)
   - [Table of contents](#table-of-contents)
   - [Getting Started](#getting-started)
@@ -38,13 +38,6 @@ These instructions will get you a copy of the project up and running on your loc
 ## Installation
 
 **BEFORE YOU INSTALL:** please read the [prerequisites](#prerequisites)
-
-Start with cloning this repo on your local machine:
-
-```sh
-$ git clone https://github.com/ORG/PROJECT.git
-$ cd PROJECT
-```
 
 To install and set up the library, run:
 
